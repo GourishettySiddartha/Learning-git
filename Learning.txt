@@ -1,3 +1,10 @@
 Welcome to Git
 ADDING WHAT WE ARE GOING TO LEARN
 Learnt how to commit
+ADD CAR FEATURES
+
+1.Sun roof
+2.automatic lock system 
+
+
+Thank you:)
