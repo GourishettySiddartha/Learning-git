@@ -1,2 +1,3 @@
 Welcome to Git
 ADDING WHAT WE ARE GOING TO LEARN
+Learnt how to commit
